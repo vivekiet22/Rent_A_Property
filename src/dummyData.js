@@ -10,7 +10,7 @@ export const properties = [
     bedrooms: 1,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-1.jpg",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-2.jpg",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const properties = [
     bedrooms: 3,
     bathrooms: 2,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-3.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-4.jpg",
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const properties = [
     bedrooms: 3,
     bathrooms: 2,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-5.jpg",
   },
   {
     id: 6,
@@ -75,7 +75,7 @@ export const properties = [
     bedrooms: 1,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-6.jpg",
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 2,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-7.jpg",
   },
   {
     id: 8,
@@ -101,7 +101,7 @@ export const properties = [
     bedrooms: 3,
     bathrooms: 2,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-8.jpg",
   },
   {
     id: 9,
@@ -114,7 +114,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-9.jpg",
   },
   {
     id: 10,
@@ -127,7 +127,7 @@ export const properties = [
     bedrooms: 4,
     bathrooms: 3,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-10.jpg",
   },
   {
     id: 11,
@@ -140,7 +140,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 2,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-11.jpg",
   },
   {
     id: 12,
@@ -153,7 +153,7 @@ export const properties = [
     bedrooms: 3,
     bathrooms: 3,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-12.jpg",
   },
   {
     id: 13,
@@ -166,7 +166,7 @@ export const properties = [
     bedrooms: 1,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-13.jpg",
   },
   {
     id: 14,
@@ -179,7 +179,7 @@ export const properties = [
     bedrooms: 2,
     bathrooms: 2,
     type: "House",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-14.jpg",
   },
   {
     id: 15,
@@ -192,7 +192,7 @@ export const properties = [
     bedrooms: 1,
     bathrooms: 1,
     type: "Apartment",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://generatorfun.com/code/uploads/Random-House-image-15.jpg",
   },
 ];
 
