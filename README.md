@@ -2,7 +2,7 @@
 # RENT A PROPERTY
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvivekiet22%2FRent_A_Property&count_bg=%2379C83D&title_bg=%23555555&icon=bathasu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[Demo of Snap Shot](https://rentaproperty.onrender.com/)
+[Demo of RENT A PROPERTY](https://rentaproperty.onrender.com/)
 
 ![](/webpage.png)
 
@@ -25,7 +25,7 @@ Click the demo link or clone/download the repository on your local machine.
 
 `npm install`
 
-##### Run Snap Shot from the root directory.
+##### Run from the root directory.
 
 `npm run start`
 
